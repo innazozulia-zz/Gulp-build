@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA,KACC,MAAA,KACA,WACC,MAAA","file":"main.min.css","sourcesContent":[".red {\r\n\tcolor: #000;\r\n\t&__item {\r\n\t\tcolor: blue;\r\n\t}\r\n}\r\n"]}
